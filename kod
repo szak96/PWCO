@@ -12,6 +12,23 @@
       <h1>Zapraszamy na darmowe warsztaty HTML i CSS dla początkujących! U nas nauczysz się tworzyć własne strony internetowe</h1>
     </header>
     <main>
+	<table style="width:100%">
+	  <tr>
+   	 <th>Firstname</th>
+   	 <th>Lastname</th>
+  	  <th>Age</th>
+ 	 </tr>
+ 	 <tr>
+   	 <td>Jill</td>
+   	 <td>Smith</td>
+   	 <td>50</td>
+ 	 </tr>
+ 	 <tr>
+    	<td>Eve</td>
+   	 <td>Jackson</td>
+    	<td>94</td>
+  	</tr>
+	</table> 
       <h2>Czy to dla mnie?</h2>
       <p>Czy kiedykolwiek zastanawiałeś się, jak zbudowane są strony WWW? Jeśli tak to kurs dla Ciebie!</p>
       <p>Planujesz karierę jako programistka/programista front-end i potrzebujesz merytorycznego wsparcia na start? Jeśli tak to kurs dla Ciebie!</p>
