@@ -12,6 +12,7 @@
       <h1>Zapraszamy na darmowe warsztaty HTML i CSS dla początkujących!</h1>
     </header>
     <main>
+	<h2>Uczestnicy<h2>
  	<table style="width:100%">
 	  <tr>
    	 <th>Firstname</th>
