@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Darmowe warsztaty z programowania HTML i CSS.">
+    <title>The Awwwesomes – Darmowe warsztaty z programowania HTML & CSS</title>
+    <link rel="stylesheet" href="/styles/website.css">
+  </head>
+  <body>
+    <header>
+      <h1>Zapraszamy na darmowe warsztaty HTML i CSS dla początkujących!</h1>
+    </header>
+    <main>
+      <h2>Czy to dla mnie?</h2>
+      <p>Czy kiedykolwiek zastanawiałeś się, jak zbudowane są strony WWW?</p>
+      <p>Planujesz karierę jako programistka/programista front-end i potrzebujesz merytorycznego wsparcia na start?</p>
+      <p>A może prowadzisz własnego bloga i chcesz wprowadzić poprawki w szablonie, ale nie wiesz, jak to zrobić?</p>
+      <p>To tylko niektóre z powodów, dla których warto zaaplikować na warsztaty The Awwwesomes.</p>
+    </main>
+    <footer>
+      Copyright &copy; The Awwwesomes 2016
+    </footer>
+  </body>
+</html>
