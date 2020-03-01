@@ -12,7 +12,8 @@
       <h1>Zapraszamy na darmowe warsztaty HTML i CSS dla początkujących! U nas nauczysz się tworzyć własne strony internetowe</h1>
     </header>
     <main>
-	<table style="width:100%">
+	<h2>Uczestnicy<h2>
+ 	<table style="width:100%">
 	  <tr>
    	 <th>Firstname</th>
    	 <th>Lastname</th>
@@ -29,14 +30,9 @@
     	<td>94</td>
   	</tr>
 	</table> 
-      <h2>Czy to dla mnie?</h2>
-      <p>Czy kiedykolwiek zastanawiałeś się, jak zbudowane są strony WWW? Jeśli tak to kurs dla Ciebie!</p>
-      <p>Planujesz karierę jako programistka/programista front-end i potrzebujesz merytorycznego wsparcia na start? Jeśli tak to kurs dla Ciebie!</p>
-      <p>A może prowadzisz własnego bloga i chcesz wprowadzić poprawki w szablonie, ale nie wiesz, jak to zrobić? Jeśli tak to kurs dla Ciebie!</p>
-      <p>To tylko niektóre z powodów, dla których warto zaaplikować na warsztaty The Awwwesomes.</p>
     </main>
     <footer>
       Copyright &copy; Łukasz&Łukasz
     </footer>
-  </body>
+</body>
 </html>
